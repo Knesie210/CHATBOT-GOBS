@@ -5,7 +5,6 @@ def main():
     # Configuración de la página de Streamlit
     st.set_page_config(
         page_title="GOBS Expert Bot",
-        page_icon="🤖",
         layout="centered"
     )
 
@@ -43,7 +42,7 @@ def main():
 
     # Si se selecciona una pregunta válida, renderizamos un botón de ejecución inmediata
     if selected_example != "--- Selecciona una pregunta guiada para la presentación ---":
-        if st.button("🚀 Ejecutar pregunta seleccionada"):
+        if st.button("Ejecutar pregunta seleccionada"):
             # Limpiamos la etiqueta de la pregunta trampa antes de enviarla al backend
             active_input = selected_example.replace(" (Prueba Anti-Alucinación)", "")
 
