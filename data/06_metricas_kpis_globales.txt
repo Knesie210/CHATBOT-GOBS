@@ -1,0 +1,6 @@
+CATÁLOGO DE KPIS Y MÉTRICAS DE RENDIMIENTO OPERATIVO
+La eficiencia operativa de las líneas de producción en el sistema GOBS se mide a través de tres KPIs maestros:
+1. OEE (Overall Equipment Effectiveness): Mide la eficiencia global de la maquinaria (Disponibilidad x Rendimiento x Calidad).
+El target global corporativo para el OEE es del 85%.
+2. Takt Time: Ritmo de producción calculado como el Tiempo Disponible dividido para la Demanda del Cliente.
+3. DPMO (Defectos por Millón de Oportunidades): Estándar Six Sigma para medir la tasa de fallas en lotes masivos.

@@ -1,0 +1,5 @@
+CREACIÓN Y CONTROL DE PROCEDIMIENTOS OPERATIVOS ESTÁNDARES (SOP)
+En GOBS, si una tarea no está escrita, no existe. Todo proceso clave debe contar con un SOP (Standard Operating Procedure).
+Los SOPs deben ser documentos altamente visuales, ubicados físicamente en la estación de trabajo en tableros acrílicos.
+Deben detallar de forma inequívoca el paso a paso de la operación, los parámetros de control obligatorios
+y las acciones a tomar en caso de una emergencia operativa.

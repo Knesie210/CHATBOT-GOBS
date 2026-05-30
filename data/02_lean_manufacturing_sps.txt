@@ -1,0 +1,5 @@
+SISTEMA DE PRODUCCIÓN ESPECÍFICO (SPS) Y LEAN MANUFACTURING
+El SPS (Specific Production System) es la adaptación interna de la metodología Lean Manufacturing.
+El enfoque principal del SPS es la eliminación absoluta de las 8 Mudas o desperdicios en el piso de producción:
+sobreproducción, tiempos de espera, transporte innecesario, sobreprocesamiento, exceso de inventario,
+movimientos innecesarios, defectos en el producto y talento humano no utilizado.

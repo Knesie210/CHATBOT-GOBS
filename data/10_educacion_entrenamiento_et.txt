@@ -1,0 +1,5 @@
+PILAR DE EDUCACIÓN Y ENTRENAMIENTO (E&T) - MATRIZ DE HABILIDADES
+El pilar de E&T busca elevar el nivel técnico y la autonomía de los operadores en el piso de manufactura.
+Es obligatorio que cada línea cuente con una Matriz de Habilidades (Skill Matrix) actualizada mensualmente.
+La escala de evaluación va del nivel 1 (Principiante bajo supervisión) al nivel 4 (Experto calificado para entrenar).
+El objetivo del pilar E&T es eliminar la dependencia de personal único en turnos críticos.

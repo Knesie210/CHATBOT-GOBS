@@ -1,0 +1,5 @@
+MANUAL GENERAL GOBS - SISTEMA GLOBAL DE OPERACIONES
+El Global Operation Business System (GOBS) es el marco de trabajo unificado que rige a la corporación.
+Su objetivo principal es estandarizar los procesos de manufactura, asegurar la excelencia operacional (OPEX)
+y garantizar que todas las plantas operen bajo los mismos estándares de costos, seguridad y calidad global.
+GOBS se sostiene sobre 4 pilares fundamentales: Seguridad Industrial, Calidad Total, Entrega a Tiempo y Eficiencia de Costos.

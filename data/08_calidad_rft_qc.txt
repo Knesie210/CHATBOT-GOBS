@@ -1,0 +1,5 @@
+ESTÁNDAR DE CONTROL DE CALIDAD (QC) Y PRODUCTO BIEN A LA PRIMERA (RFT)
+El departamento de Control de Calidad (QC) se encarga de la inspección física y detección de defectos en planta.
+La métrica clave del área es el RFT (Right First Time / Bien a la Primera), la cual calcula el porcentaje de unidades
+que cumplen al 100% con las especificaciones técnicas en el primer intento de producción.
+Un indicador RFT bajo es síntoma directo de fallas en el set-up de maquinaria o falta de estandarización.

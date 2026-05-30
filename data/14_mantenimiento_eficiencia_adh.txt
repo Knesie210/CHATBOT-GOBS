@@ -1,0 +1,5 @@
+GESTIÓN DE TIEMPOS MUERTOS Y HORAS DE PARO ACUMULADAS (ADH)
+El ADH (Accumulated Down Hours) registra el impacto financiero y operativo de los tiempos muertos mecánicos en planta.
+Cada vez que una máquina crítica se detiene por más de 5 minutos, el operador debe registrar la causa exacta en el sistema.
+Al final de cada semana, el área de Ingeniería de Mantenimiento analiza el ADH acumulado por línea
+para priorizar las órdenes de trabajo del mantenimiento preventivo del fin de semana.

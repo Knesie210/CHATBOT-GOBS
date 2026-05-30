@@ -1,0 +1,5 @@
+FILOSOFÍA KAIZEN Y CAMINATAS GEMBA DE LIDERAZGO
+La mejora continua en la planta se ejecuta a través de dos herramientas del pilar de Liderazgo (Leading):
+- GEMBA WALK: Recorrido diario de los gerentes por el piso real de producción para observar operaciones y remover obstáculos.
+- KAIZEN: Sistema corporativo donde los operadores de primera línea envían ideas de micro-mejoras.
+Cada idea Kaizen aprobada e implementada con éxito genera un reconocimiento directo en el expediente del colaborador.

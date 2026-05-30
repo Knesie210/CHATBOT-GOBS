@@ -1,0 +1,6 @@
+ESTÁNDAR OPERATIVO PARA LA IMPLEMENTACIÓN DE LAS 5S
+El orden y la limpieza en las estaciones de trabajo se auditan bajo el estándar de las 5S de GOBS.
+Las fases obligatorias son: Seiri (Clasificar), Seiton (Ordenar), Seiso (Limpiar), Seiketsu (Estandarizar) y Shitsuke (Disciplina).
+Las auditorías de planta se ejecutan de forma mandatoria todos los viernes a las 15:00 horas.
+Cualquier estación de trabajo con un puntaje de auditoría inferior al 85% ingresará automáticamente
+en un estatus de desviación, requiriendo un plan de acción correctivo en un plazo máximo de 24 horas.

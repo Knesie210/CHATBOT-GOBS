@@ -1,0 +1,5 @@
+GESTIÓN DE NO CONFORMIDADES Y ACCIONES CORRECTIVAS Y PREVENTIVAS (CAPA)
+Cuando se detecta una falla grave de calidad, seguridad o un reclamo de cliente, se abre una investigación CAPA.
+El proceso exige conformar un equipo multidisciplinario para aplicar la técnica de los 5 Porqués para hallar la causa raíz.
+- Acción Correctiva: Detiene el problema de forma inmediata (mitiga el impacto actual).
+- Acción Preventiva: Modifica el diseño del proceso o máquina para asegurar que la falla no vuelva a ocurrir jamás.

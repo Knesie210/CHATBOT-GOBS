@@ -1,0 +1,6 @@
+PROCEDIMIENTO CRÍTICO DE SEGURIDAD: BLOQUEO Y ETIQUETADO (LOTO)
+Antes de realizar cualquier mantenimiento, limpieza profunda o intervención técnica dentro de una máquina,
+es obligatorio aplicar el protocolo LOTO (Lockout / Tagout).
+Este procedimiento exige: 1. Aislar las fuentes de energía (eléctrica, neumática, hidráulica).
+2. Colocar un candado físico personal en el interruptor principal. 3. Colocar una tarjeta de advertencia visible.
+Está estrictamente prohibido retirar un candado ajeno; la violación de esta norma conlleva sanción disciplinaria severa.

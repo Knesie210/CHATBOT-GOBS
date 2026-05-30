@@ -1,0 +1,6 @@
+POLÍTICA DE CONTROL MEDIANTE INDICADORES LEADING Y LAGGING
+El tablero de control gerencial de GOBS divide sus métricas en dos categorías críticas:
+- LEADING INDICATORS (Predictivos): Métricas proactivas que miden actividades preventivas (ej. Horas de capacitación,
+número de mantenimientos preventivos ejecutados a tiempo). Ayudan a predecir y evitar fallas.
+- LAGGING INDICATORS (De Resultado): Métricas reactivas que miden eventos históricos que ya ocurrieron
+y no se pueden cambiar (ej. Índice de accidentabilidad del mes anterior, toneladas totales de merma).

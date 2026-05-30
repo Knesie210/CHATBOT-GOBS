@@ -1,0 +1,4 @@
+PROCESOS DE ASEGURAMIENTO DE CALIDAD (QA) Y AUDITORÍAS
+A diferencia de QC, Aseguramiento de Calidad (QA) tiene un enfoque 100% preventivo y de diseño de procesos.
+QA es el área responsable de diseñar los flujos de trabajo, validar los sistemas informáticos, certificar proveedores
+y coordinar las auditorías internas obligatorias de cumplimiento del sistema GOBS.

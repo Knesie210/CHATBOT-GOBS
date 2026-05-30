@@ -1,0 +1,5 @@
+FLUJO DE ENTREGA Y MANUFACTURING DELIVERY LEAD (MDL)
+El rol del MDL (Manufacturing Delivery Lead) es coordinar el puente de comunicación entre producción y logística.
+El MDL rastrea que el producto terminado sea liberado por QA, empacado bajo las normas de estiba oficiales
+y transferido a los centros de distribución (CEDIS) dentro de las ventanas de tiempo acordadas,
+garantizando un indicador OTIF (On-Time In-Full) óptimo.

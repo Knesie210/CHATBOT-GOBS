@@ -1,0 +1,8 @@
+METODOLOGÍA SIX SIGMA Y CICLO DMAIC PARA PROYECTOS COMPLEJOS
+Para la reducción drástica de la variabilidad y defectos en los procesos de manufactura, GOBS exige el uso de Six Sigma.
+Todo proyecto de mejora debe seguir estrictamente las 5 fases del ciclo DMAIC:
+1. Definir (Define): Establecer el problema, el alcance y los objetivos del proyecto.
+2. Medir (Measure): Recolectar datos confiables del estado actual del proceso.
+3. Analizar (Analyze): Identificar las causas raíz de la variabilidad utilizando diagramas de Ishikawa y Pareto.
+4. Mejorar (Improve): Desarrollar, implementar y validar soluciones óptimas.
+5. Controlar (Control): Diseñar mecanismos de monitoreo estandarizados para sostener los ahorros económicos.

@@ -1,0 +1,5 @@
+GESTIÓN DE MATERIALES INDISPENSABLES Y TIEMPO DE AGOTAMIENTO (ROT)
+El ROT (Run-Out Time) es el indicador logístico que determina el tiempo teórico en días o horas que durará el inventario
+actual de materia prima para abastecer las líneas antes de quedarse completamente en cero.
+Adicionalmente, en los almacenes técnicos se aplica el análisis ROT para identificar refacciones bajo tres criterios:
+Redundantes (R), Obsoletas (O) y Triviales (T), las cuales deben depurarse semestralmente.

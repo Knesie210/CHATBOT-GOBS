@@ -1,0 +1,5 @@
+DIRECTRICES DE INTEGRIDAD DE DATOS BAJO EL ESTÁNDAR ALCOA+
+Todos los registros manuales, electrónicos y de laboratorio de control de calidad (QC) deben cumplir con ALCOA+.
+Los datos deben ser: Atribuibles (saber quién firmó), Legibles (claros y duraderos), Contemporáneos (registrados al momento),
+Originales (o copia certificada) y Precisos (Accurate, sin alteraciones).
+La extensión (+) exige que la información operativa sea Completa, Consistente, Duradera y Disponible en auditorías.

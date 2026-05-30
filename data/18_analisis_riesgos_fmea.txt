@@ -1,0 +1,5 @@
+ANÁLISIS DE MODO DE FALLA Y EFECTOS (FMEA / AMFE) EN PROCESOS
+El FMEA es la herramienta analítica obligatoria para evaluar riesgos potenciales en líneas de producción.
+Cada modo de falla identificado se evalúa calculando el NPR (Número de Prioridad de RIESGO), el cual multiplica:
+Severidad (Qué tan grave es el fallo) x Ocurrencia (Qué tan seguido pasa) x Detección (Qué tan fácil es verlo antes de que salga).
+Cualquier item con un NPR superior a 120 puntos exige el diseño obligatorio e inmediato de un mecanismo Poka-Yoke.

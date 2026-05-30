@@ -1,0 +1,4 @@
+MARCO DE OPERACIONES CONFIABLES (RO - RELIABLE OPERATIONS)
+El programa RO (Reliable Operations) establece las bases técnicas para estabilizar los procesos industriales.
+Se enfoca en reducir drásticamente los paros no programados mediante la aplicación rigurosa de mantenimiento autónomo
+por parte de los operadores de planta, garantizando la predictibilidad y la continuidad del negocio.
